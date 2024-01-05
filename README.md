@@ -1,1 +1,1 @@
-# python-notes
+Getting started myself in community. 
