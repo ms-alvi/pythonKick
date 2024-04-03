@@ -1,2 +1,1 @@
-Getting started myself in community. 
-Hello there in desktop
+Getting started myself in wild programming.
